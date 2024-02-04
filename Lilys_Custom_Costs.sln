@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lilys_Custom_Costs", "Lilys_Custom_Costs.csproj", "{EBDCE81A-F5F4-4131-B5DA-A204BCC14951}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBDCE81A-F5F4-4131-B5DA-A204BCC14951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDCE81A-F5F4-4131-B5DA-A204BCC14951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDCE81A-F5F4-4131-B5DA-A204BCC14951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDCE81A-F5F4-4131-B5DA-A204BCC14951}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {648711F8-DEA1-4CC8-9B45-6EF11B40A930}
+	EndGlobalSection
+EndGlobal
